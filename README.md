@@ -1,3 +1,8 @@
+
+# DO NOT USE IT, DO NOT WRITE TO ME ABOUT PUBLIC KEYS, I HAVE BAD CODE IN THIS REPOSITORY, THEY CHANGED IT IN THE NEW VERSIONS AND ADDED CERTIFICATION
+
+
+
 # BsUtils - Brawl Stars Utils
 ![s](screenshot.jpeg)
 BsUtils is a Ruby-based utility tool designed for interacting with Brawl Stars servers (both production and staging). It provides functionalities to boost viewer counts, send friend requests en masse, and create accounts on the servers. 
